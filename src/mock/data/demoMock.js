@@ -6,7 +6,7 @@
 export default {
 	'demo/': {
 		get: {
-			demoData: 100
+			demoData: 200
 		},
 		error: {
 			message: 'DEMO_ERROR'

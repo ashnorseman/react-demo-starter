@@ -15,7 +15,7 @@ var path = require('path'),
 
 // 连接开发服务器
 if (process.env.npm_lifecycle_event === 'connect') {
-	server = 'localhost:9090';
+	server = 'http://localhost:9090/';
 }
 
 
